@@ -190,6 +190,8 @@ class PlayState extends MusicBeatState
 	var halloweenBG:BGSprite;
 	var halloweenWhite:BGSprite;
 	
+	var tower:FlxSprite;
+	var tankRolling:FlxSprite;
 	var tankmanRun:FlxTypedGroup<TankmenBG>;
 	//tankbop shit
 	var tankBop1:FlxSprite;
